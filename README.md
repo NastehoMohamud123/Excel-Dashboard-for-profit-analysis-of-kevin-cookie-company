@@ -21,6 +21,8 @@ The dashboard was created using pivot tables, a powerful tool for summarizing an
 ![Screenshot (10)](https://github.com/NastehoMohamud123/Excel-Dashboard-for-profit-analysis-of-kevin-cookie-company/assets/146730146/335fb4fa-efca-41af-822f-4e5b26760817)
 ![Screenshot (7)](https://github.com/NastehoMohamud123/Excel-Dashboard-for-profit-analysis-of-kevin-cookie-company/assets/146730146/a593bfc9-efda-4831-a875-212459ec0c26)
 ![Screenshot (5)](https://github.com/NastehoMohamud123/Excel-Dashboard-for-profit-analysis-of-kevin-cookie-company/assets/146730146/9aa6eeb0-6265-4449-af5e-188fb9c6176e)
+![Screenshot (8)](https://github.com/NastehoMohamud123/Excel-Dashboard-for-profit-analysis-of-kevin-cookie-company/assets/146730146/6bfe0505-9b39-4556-8370-dd1a837a0134)
+
 
 
 
