@@ -18,6 +18,8 @@ Profit by Countries and Product
 ![](Reasorces/profitbycountriesandproduc.png)
 
 The dashboard was created using pivot tables, a powerful tool for summarizing and analyzing data. Pivot tables allow you to quickly and easily create interactive charts and graphs that can be used to track trends and identify areas for improvement.
+![Screenshot (10)](https://github.com/NastehoMohamud123/Excel-Dashboard-for-profit-analysis-of-kevin-cookie-company/assets/146730146/335fb4fa-efca-41af-822f-4e5b26760817)
+
 
  # The dashboard was created using the following steps:
 Import the data into Excel.
